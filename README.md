@@ -72,4 +72,3 @@ To control for potential confounders, analyses were stratified across:
 | File | Description |
 |---|---|
 | `InstagramPostEngagementRate_Analysis.ipynb` | Full analysis notebook with code and visualizations |
-| `InstagramPostEngagementRate_Report.pdf` | Written report with methods, results, and discussion |
